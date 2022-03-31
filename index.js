@@ -2,7 +2,7 @@ console.log("Nothing here...")
 
 function update() {
     const dateNow = Math.round(Date.now() / 1000)
-    const actual = dateNow - 1648754710;
+    const actual = dateNow - 1648754941;
 
 
     console.log("🎉 Updated 🎉")
