@@ -1,4 +1,4 @@
-console.log("it's just a song -> https://youtu.be/dQw4w9WgXcQ")
+console.log("I don't know")
 
 function update() {
     const dateNow = Math.round(Date.now() / 1000)
